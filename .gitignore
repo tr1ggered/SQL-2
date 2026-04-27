@@ -49,3 +49,20 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# DBeaver
+*.dbeaver-workspace
+
+# Temp files
+*.tmp
+*.log
+
